@@ -8,8 +8,7 @@ LICENSE
 The actual repository is unlicensed, it mean all rights are reserved. You cannot modify or redistribute this code without explicit permission from the copyright holders.
 Violating this rule may lead our intervention according to the Github Terms of Service — User-Generated Content — Section D.3 using the Content Removal Policies — DMCA Takedown Policy.
 CREDITS
-Lemon.-_-.#3714
-the-cult-of-integral
+Scynrays
 """
 
 import base64
